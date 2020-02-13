@@ -103,12 +103,13 @@ nav ul li {
       
     
     }
-    .break-point{
+    .break-point:hover{
         background-color: rgb(242, 242, 242);
         display:flex;
         flex:wrap;
         justify-content: center;
         padding: 20px 25px;
+        opacity:0.5px ;
     }
     .info{
     width:400px;
@@ -116,4 +117,4 @@ nav ul li {
     padding: 20px 25px;
     
     }
-   
+    
